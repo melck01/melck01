@@ -4,7 +4,7 @@
 <br>
 💻 Atualmente aprendendo HTML, CSS, JavaScript e iniciando com React.
 <br>
-📚 Estudo na plataforma DevClub
+📚 Estudo na plataforma DevClub.
 <br>
 🚀 Em constante evolução, com interesse futuro em desenvolvimento Full Stack.
 <br>
