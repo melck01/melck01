@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 👋 Olá! Me chamo Melck Messias, sou um desenvolvedor Front-end em formação.
+<br>
 💻 Atualmente aprendendo HTML, CSS, JavaScript e iniciando com React.
+<br>
 📚 Estudo na plataforma DevClub
+<br>
 🚀 Em constante evolução, com interesse futuro em desenvolvimento Full Stack.
 <br>
 <br>
